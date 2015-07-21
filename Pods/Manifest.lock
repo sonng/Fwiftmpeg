@@ -1,0 +1,12 @@
+PODS:
+  - FFmpeg (2.2):
+    - FFmpeg/precompiled (= 2.2)
+  - FFmpeg/precompiled (2.2)
+
+DEPENDENCIES:
+  - FFmpeg (~> 2.2)
+
+SPEC CHECKSUMS:
+  FFmpeg: e004e90bdac48219b272e7bea11671a25bb0a9b9
+
+COCOAPODS: 0.38.0
